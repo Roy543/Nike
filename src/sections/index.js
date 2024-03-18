@@ -4,7 +4,7 @@ import PopularProducts from "./PopularProducts";
 import Service from "./Services";
 import SpecialOffer from "./SpecialOffer";
 import Subscribe from "./Subscribe";
-import SuperQaulity from "./SuperQaulity";
+import SuperQuality from "./SuperQaulity";
 import CustomerReviews from "./CustomerReviews";
 
 export {
@@ -14,6 +14,6 @@ export {
     Service,
     SpecialOffer,
     Subscribe,
-    SuperQaulity,
+    SuperQuality,
     CustomerReviews
 } 

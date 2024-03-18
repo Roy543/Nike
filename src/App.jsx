@@ -25,6 +25,9 @@ const App = () => (
     <section className="padding-x py-10">
       <Services />
     </section>
+    <section className="padding">
+      <SpecialOffer />
+    </section>
   </main>
 );
 
